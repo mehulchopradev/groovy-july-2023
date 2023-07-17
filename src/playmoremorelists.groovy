@@ -34,3 +34,20 @@ println marks.every {it > 2}
 
 // find whether there is any student who has scored less than 3 marks
 println marks.any {it < 3}
+
+
+def names = ['mehul', 'jane', 'jill', 'raj']
+// build a new list consisting of names capitalized cased from the above names list (mapping)
+def cnames = names.collect { it.capitalize()}
+println cnames
+
+// spread dot operator (*.)
+// to call a method on every element in a collection and create a new collection
+def ccnames = names*.capitalize()
+println ccnames
+
+def two = names.collect { it.toUpperCase().substring(0, 2)}
+println two
+
+def tt = names*.substring(0, 2)
+println tt

@@ -17,3 +17,9 @@ B
 src/sorting.groovy,9/3/9376fa0f86cccf2e81ca631493d568af470a017f
 L
 src/playmoremorelists.groovy,6/d/6d7da7799db065fef86e5f7bd1724bfdfa477a03
+E
+src/playtuples.groovy,b/f/bf610cb9fd09b841a8525901b9538b34fcd34a3c
+D
+src/rectangle.groovy,6/f/6fc1a185a244712f2340b81ed6b8a8d67f870b75
+J
+src/search_students.groovy,f/8/f864b40d956a55f4e0e981dbfbe49f0a79ab70e5

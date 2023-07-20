@@ -3,8 +3,6 @@ A
 src/grader.groovy,5/b/5b6744aebbf773c1a654053d3e939f5a7777322d
 F
 src/playstrings.groovy,6/8/68eef2477e91509b0ebe3e9f170c520fed089667
-D
-src/playlists.groovy,8/7/87b0d9ab60fed43ae7bb3f9c88ad2b5d66e90bf3
 G
 src/playclosures.groovy,e/e/ee9bec1817a3371b2f4b478799c2cd8e8826530f
 B
@@ -23,3 +21,9 @@ D
 src/rectangle.groovy,6/f/6fc1a185a244712f2340b81ed6b8a8d67f870b75
 J
 src/search_students.groovy,f/8/f864b40d956a55f4e0e981dbfbe49f0a79ab70e5
+N
+src/search_students_map.groovy,6/4/64bdd8af6107703d865ce6b5804879c9cef66267
+D
+src/play_maps.groovy,e/d/ede5cc252e094129c68964a5275ee23ed02a3bb9
+J
+src/create_students.groovy,6/6/66986a87dd7dcded27222401943051ddb21cec22

@@ -1,0 +1,13 @@
+{
+  "employee": {
+    "basicDetails": {
+      "fullName": "mehul chopra",
+      "gender": "m",
+      "country": "IN"
+    },
+    "contact": {
+      "email": "mehulc@hey.com",
+      "phone": "978976868"
+    }
+  }
+}
